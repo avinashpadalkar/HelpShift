@@ -1,0 +1,19 @@
+Name : Avinash Padalkar 
+	   +91 9970656797
+
+Self assessment Questionnaire
+
+Programming Paradigms :-
+Object Oriented Programming : 7
+Functional Programming      : 6
+
+Engineering Tools :-
+Skill With Linux / Unix Command Line Utilities : 1
+version control system name					   : Git
+
+
+Concepts:-
+Mobile UI/UX 	: 7
+Mobile Platform : 6
+Algorithm 		: 5
+Data Structure  : 5
